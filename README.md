@@ -120,10 +120,10 @@ Designed and developed Rebaaz's official e-commerce website from scratch, fully 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AreebaSaghir-hub&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSaghir-hub&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api?username=areebasaghir&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebasaghirhub&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
-<img src="https://streak-stats.demolab.com?user=AreebaSaghir-hub&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+<img src="https://streak-stats.demolab.com?user=areebasaghir&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
 
 </div>
 
@@ -132,7 +132,7 @@ Designed and developed Rebaaz's official e-commerce website from scratch, fully 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AreebaSaghir-hub&no-frame=true&no-bg=true&theme=nord" />
+<img src="https://github-profile-trophy.vercel.app/?username=areebasaghir&no-frame=true&no-bg=true&theme=nord" />
 </div>
 
 ---
@@ -140,7 +140,7 @@ Designed and developed Rebaaz's official e-commerce website from scratch, fully 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AreebaSaghir-hub&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=areebasaghir&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
 </div>
 
 ---
