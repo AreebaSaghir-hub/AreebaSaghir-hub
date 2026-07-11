@@ -5,17 +5,7 @@
 </a>
 <br/>
 
-<!-- Typing SVG -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+%2F+Web+Developer;Building+AI-powered+%26+e-commerce+apps;Freelancer+on+Fiverr" />
-</a>
 
-<!-- Open to work badge -->
-<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=white" />
-
-<!-- Profile view counter + followers -->
-<img src="https://komarev.com/ghpvc/?username=areebasaghir&color=7dd3fc&style=flat-square" />
-<img src="https://img.shields.io/github/followers/areebasaghir?label=Followers&style=flat-square&color=7dd3fc" />
 
 </div>
 
