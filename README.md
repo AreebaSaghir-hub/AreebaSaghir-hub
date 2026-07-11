@@ -14,7 +14,7 @@
 ## 🧑‍💻 Who I Am
 
 ```typescript
-const areebaSaghir = {
+const AreebaSaghir = {
   title: "Software Engineer",
   location: "Lahore, Pakistan",
   education: "BSc Software Engineering @ PUCIT (2023 - Ongoing)",
@@ -56,7 +56,6 @@ Cloud-based AI SaaS platform with authentication, dashboard, database integratio
 | AI         | OpenAI / Gemini API      |
 | Deployment | Cloud (scalable)         |
 
-🔗 Live: _add link_ &nbsp;|&nbsp; 💻 Code: _add link_
 
 ---
 
@@ -70,7 +69,7 @@ AI-powered real-time attendance system using OpenCV, Flask, and Face Recognition
 | AI/CV      | OpenCV, Face Recognition |
 | Database   | Integrated DB        |
 
-🔗 Live: _add link_ &nbsp;|&nbsp; 💻 Code: _add link_
+
 
 ---
 
@@ -84,7 +83,7 @@ Designed and developed Rebaaz's official e-commerce website from scratch, fully 
 | Platform   | Shopify              |
 | Features   | Payment Gateway, SEO |
 
-🔗 Live: Rebaaz &nbsp;|&nbsp; 💻 Code: _add link_
+
 
 ---
 
