@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- Waving header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Your%20Name&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Areeba%20Saghir&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
 <!-- Typing SVG -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+cool+things+with+code;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+%2F+Web+Developer;Building+AI-powered+%26+e-commerce+apps;Freelancer+on+Fiverr" />
 </a>
 
-<!-- Open to work badge (delete if not applicable) -->
+<!-- Open to work badge -->
 <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=white" />
 
 <!-- Profile view counter + followers -->
-<img src="https://komarev.com/ghpvc/?username=your-username&color=7dd3fc&style=flat-square" />
-<img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square&color=7dd3fc" />
+<img src="https://komarev.com/ghpvc/?username=areebasaghir&color=7dd3fc&style=flat-square" />
+<img src="https://img.shields.io/github/followers/areebasaghir?label=Followers&style=flat-square&color=7dd3fc" />
 
 </div>
 
@@ -22,13 +22,30 @@
 ## 🧑‍💻 Who I Am
 
 ```typescript
-const yourName = {
-  title: "Full Stack Developer",
-  stack: ["JavaScript", "TypeScript", "React", "Node.js", "Python"],
-  launchedProjects: ["project-one", "project-two"],
-  certifications: ["Your Certification Here"],
-  status: "Building something new",
-  openTo: ["Collaborations", "Freelance", "Full-time roles"],
+const areebaSaghir = {
+  title: "Software Engineer",
+  location: "Lahore, Pakistan",
+  education: "BSc Software Engineering @ PUCIT (2023 - Ongoing)",
+  stack: [
+    "C++", "Python", "JavaScript", "HTML", "CSS",
+    "React", "Angular", "Next.js", "MERN Stack", "Flask",
+    "WordPress", "Shopify", "SQL", "Docker"
+  ],
+  launchedProjects: [
+    "NextGen AI SaaS Platform",
+    "AttendVision AI",
+    "Rebaaz - Official E-commerce Website",
+    "RagsPerfumes",
+    "Central Coffee"
+  ],
+  certifications: [
+    "Web Hackathon Appreciation - COSMOCON'25 (PUCIT)",
+    "Code Bees 4.0 Appreciation - FCIT Developers Club",
+    "PF-PUCon'25 FYP Exhibition Appreciation Award",
+    "PF-PUCon'25 Pitch to Rich Appreciation Award"
+  ],
+  status: "Teaching Assistant @ PUCIT | Freelance Web Developer",
+  openTo: ["Full-time Roles", "Internships", "Freelance Projects", "Collaborations"],
 };
 ```
 
@@ -36,59 +53,65 @@ const yourName = {
 
 ## 🚀 Featured Projects
 
-### 📌 Project One
+### 📌 NextGen AI SaaS Platform
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-one&theme=nord&border_color=7dd3fc" />
+Cloud-based AI SaaS platform with authentication, dashboard, database integration, and AI-powered content generation. Integrated OpenAI/Gemini APIs for intelligent summarization and productivity automation, with REST APIs and scalable deployment.
 
-One-line description of what this project does and why it's cool.
+| Layer      | Technology              |
+|------------|--------------------------|
+| Frontend   | Next.js / MERN Stack     |
+| Backend    | REST APIs                |
+| AI         | OpenAI / Gemini API      |
+| Deployment | Cloud (scalable)         |
 
-| Layer      | Technology     |
-|------------|----------------|
-| Frontend   | React          |
-| Backend    | Node.js        |
-| Database   | PostgreSQL     |
+🔗 Live: _add link_ &nbsp;|&nbsp; 💻 Code: _add link_
 
-🔗 [Live](#) &nbsp;|&nbsp; 💻 [Code](#)
+---
 
-<br clear="right"/>
+### 📌 AttendVision AI
 
-### 📌 Project Two
+AI-powered real-time attendance system using OpenCV, Flask, and Face Recognition — capable of automatic face detection, recognition, and attendance management with database integration and an admin dashboard.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-two&theme=nord&border_color=7dd3fc" />
+| Layer      | Technology         |
+|------------|---------------------|
+| Backend    | Flask               |
+| AI/CV      | OpenCV, Face Recognition |
+| Database   | Integrated DB        |
 
-One-line description of what this project does and why it's cool.
+🔗 Live: _add link_ &nbsp;|&nbsp; 💻 Code: _add link_
 
-| Layer      | Technology     |
-|------------|----------------|
-| Frontend   | Vue.js         |
-| Backend    | Express        |
-| Database   | MongoDB        |
+---
 
-🔗 [Live](#) &nbsp;|&nbsp; 💻 [Code](#)
+### 📌 Rebaaz — Official E-commerce Website
 
-<br clear="right"/>
+Designed and developed Rebaaz's official e-commerce website from scratch, fully responsive and mobile-friendly, with product catalog, secure checkout, payment gateway integration, and SEO optimization.
+
+| Layer      | Technology         |
+|------------|---------------------|
+| Frontend   | HTML, CSS, JavaScript |
+| Platform   | Shopify              |
+| Features   | Payment Gateway, SEO |
+
+🔗 Live: Rebaaz &nbsp;|&nbsp; 💻 Code: _add link_
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,py,java" />
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,py" />
 
 **Frontend**
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs" />
 
 **Backend / Infra**
-<img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
+<img src="https://skillicons.dev/icons?i=flask,nodejs,docker,wordpress" />
 
-**Cloud**
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
-
-**AI / DB**
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,tensorflow" />
+**Cloud / Databases**
+<img src="https://skillicons.dev/icons?i=mysql,oracle" />
 
 **Dev Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jira,androidstudio" />
 
 ---
 
@@ -96,10 +119,10 @@ One-line description of what this project does and why it's cool.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api?username=areebasaghir&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebasaghir&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
-<img src="https://streak-stats.demolab.com?user=your-username&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+<img src="https://streak-stats.demolab.com?user=areebasaghir&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
 
 </div>
 
@@ -108,7 +131,7 @@ One-line description of what this project does and why it's cool.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&no-frame=true&no-bg=true&theme=nord" />
+<img src="https://github-profile-trophy.vercel.app/?username=areebasaghir&no-frame=true&no-bg=true&theme=nord" />
 </div>
 
 ---
@@ -116,7 +139,7 @@ One-line description of what this project does and why it's cool.
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=areebasaghir&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
 </div>
 
 ---
@@ -125,10 +148,9 @@ One-line description of what this project does and why it's cool.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:areebasaghir4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
