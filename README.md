@@ -27,7 +27,7 @@
 const AreebaSaghir = {
   title: "Software Engineer",
   location: "Lahore, Pakistan",
-  education: "BSc Software Engineering @ PUCIT (2023 - Ongoing)",
+  education: "BSc Software Engineering @ PUCIT",
   stack: [
     "C++", "Python", "JavaScript", "HTML", "CSS",
     "React", "Angular", "Next.js", "MERN Stack", "Flask",
@@ -112,7 +112,7 @@ Designed and developed Rebaaz's official e-commerce website from scratch, fully 
 <img src="https://skillicons.dev/icons?i=mysql,oracle" />
 
 **Dev Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jira,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 
 ---
 
@@ -132,7 +132,7 @@ Designed and developed Rebaaz's official e-commerce website from scratch, fully 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=areebasaghir&no-frame=true&no-bg=true&theme=nord" />
+<img src="https://github-profile-trophy.vercel.app/?username=AreebaSaghir-hub&no-frame=true&no-bg=true&theme=nord" />
 </div>
 
 ---
@@ -140,7 +140,7 @@ Designed and developed Rebaaz's official e-commerce website from scratch, fully 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=areebasaghir&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AreebaSaghir-hub&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
 </div>
 
 ---
