@@ -120,10 +120,10 @@ Designed and developed Rebaaz's official e-commerce website from scratch, fully 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=areebasaghir&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebasaghir&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api?username=AreebaSaghir-hub&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSaghir-hub&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
-<img src="https://streak-stats.demolab.com?user=areebasaghir&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+<img src="https://streak-stats.demolab.com?user=AreebaSaghir-hub&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
 
 </div>
 
