@@ -132,7 +132,7 @@ Designed and developed Rebaaz's official e-commerce website from scratch, fully 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AreebaSaghir-hub&no-frame=true&no-bg=true&theme=nord&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=AreebaSaghir-hub&theme=nord&no-frame=true&no-bg=true&column=4" />
 </div>
 
 ---
